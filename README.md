@@ -26,3 +26,8 @@ Answer:
 Why is it important to return 404 instead of just an empty array or a generic error?
 Answer:
 Returning 404 clearly indicates that the requested resource does not exist. An empty array or generic error may confuse users by suggesting the request was successful but returned no data. Proper status codes improve clarity and error handling.
+
+4. Testing
+<img width="656" height="57" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/b9d66f9e-7bd5-4b64-8737-97b79d0d5b4c" />
+
+
